@@ -71,8 +71,8 @@ If you will be using your own setup, and especially if you have never used
 Shiny before, please try the following before you arrive:
 
 In RStudio, go to File :arrow_right: New File :arrow_right: Shiny Web App to 
-create and click on the Run App button. If this works without any issues, 
-you’re ready to go!
+create a new Shiny app, and click on the Run App button. If this works without 
+any issues, you’re ready to go!
 
 If you have any questions, please email me at mine@rstudio.com. 
 See you soon at SDSS!
