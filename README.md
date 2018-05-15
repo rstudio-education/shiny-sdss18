@@ -42,8 +42,9 @@ listed below).
 However if you would like to use your own setup, please make sure that you have 
 R and RStudio installed.
 
-R - 3.4.4 or above: https://cran.r-project.org/
-RStudio - 1.1.446 or above: https://www.rstudio.com/products/rstudio/download/preview/
+  - R - 3.4.4 or above: https://cran.r-project.org/
+  - RStudio - 1.1.446 or above: https://www.rstudio.com/products/rstudio/download/preview/
+
 It is also recommended that you pre-install the packages we will use at the 
 workshop. The package installation instructions are as follows
 
