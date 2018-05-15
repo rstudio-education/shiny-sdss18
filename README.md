@@ -27,7 +27,7 @@ Please bring a laptop with a web browser and a power cord.
 
 ### Setup
 
-- Option 1: RStudio Cloud :cloud:
+#### Option 1: RStudio Cloud :cloud:
 
 I have set up an RStudio Cloud space for the workshop, with all the packages 
 you will need pre-installed. The space will also include all the starter code 
@@ -37,7 +37,7 @@ If you choose to use this space, you should not need to install any software
 or packages (and you don’t need to worry about the rest of the instructions 
 listed below).
 
-- Option 2: Local Installation :computer:
+#### Option 2: Local Installation :computer:
 
 However if you would like to use your own setup, please make sure that you have 
 R and RStudio installed.
