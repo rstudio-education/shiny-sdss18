@@ -13,7 +13,7 @@ basics of building web applications with Shiny, essentials of reactive
 programming, and how to customize and deploy your apps for others to use. 
 Please bring a laptop with you to the course.
 
-## Pre-workshop communicstion
+## Pre-workshop communication
 
 I’m looking forward to meeting everyone joining the Shiny Essentials workshop 
 this week!
@@ -27,7 +27,8 @@ Please bring a laptop with a web browser and a power cord.
 
 ### Setup
 
-RStudio Cloud :cloud:
+- Option 1: RStudio Cloud :cloud:
+
 I have set up an RStudio Cloud space for the workshop, with all the packages 
 you will need pre-installed. The space will also include all the starter code 
 you will need for the exercises.
@@ -36,7 +37,7 @@ If you choose to use this space, you should not need to install any software
 or packages (and you don’t need to worry about the rest of the instructions 
 listed below).
 
-### Local Installation :computer:
+- Option 2: Local Installation :computer:
 
 However if you would like to use your own setup, please make sure that you have 
 R and RStudio installed.
